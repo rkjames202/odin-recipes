@@ -1,0 +1,28 @@
+body{
+    background-color: #323d3b;
+    color: white;
+    font-family: 'Verdana', sans-serif;
+}
+
+.recipe-photo, .homepage-photo{
+    width: 241px;
+    height: auto;
+}
+
+
+.ingredients{
+    background-color: #232b29;
+}
+
+.steps{
+    background-color: #232b29;   
+}
+
+a:visited{
+    color:peru;
+}
+
+.jump-link{
+    text-align: center;
+    display:block;
+}
